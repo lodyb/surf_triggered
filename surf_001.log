@@ -5588,3 +5588,1538 @@ Average clusters audible: 96
 visdatasize:5296  compressed from 6192
 writing c:\dev\surf_001\surf_001.bsp
 0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36009 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 94 texinfos to 39
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 129 portalclusters
+ 228 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 183 visible clusters (2.22%)
+Total clusters visible: 8244
+Average clusters visible: 63
+Building PAS...
+Average clusters audible: 96
+visdatasize:5296  compressed from 6192
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (44126 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 103 texinfos to 45
+Reduced 12 texdatas to 11 (271 bytes to 248)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 129 portalclusters
+ 228 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 183 visible clusters (2.22%)
+Total clusters visible: 8244
+Average clusters visible: 63
+Building PAS...
+Average clusters audible: 96
+visdatasize:5296  compressed from 6192
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (108786 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 304 texinfos to 187
+Reduced 13 texdatas to 12 (294 bytes to 271)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 304 portalclusters
+ 565 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 308 visible clusters (1.38%)
+Total clusters visible: 22392
+Average clusters visible: 73
+Building PAS...
+Average clusters audible: 93
+visdatasize:12726  compressed from 24320
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (109339 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 307 texinfos to 190
+Reduced 13 texdatas to 12 (294 bytes to 271)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 304 portalclusters
+ 565 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 308 visible clusters (1.38%)
+Total clusters visible: 22392
+Average clusters visible: 73
+Building PAS...
+Average clusters audible: 93
+visdatasize:12726  compressed from 24320
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (109339 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 307 texinfos to 190
+Reduced 13 texdatas to 12 (294 bytes to 271)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 304 portalclusters
+ 565 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 308 visible clusters (1.38%)
+Total clusters visible: 22392
+Average clusters visible: 73
+Building PAS...
+Average clusters audible: 93
+visdatasize:12726  compressed from 24320
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_teleport_destination (-10624.00 -7936.00 -1248.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (128.0 3072.0 3106.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (128.0 3072.0 9634.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (608.0 3072.0 3184.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (32.0 3072.0 3184.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 4096.0 3184.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3584.0 3184.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-992.0 3072.0 3127.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-992.0 3072.0 9655.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 66 texinfos to 55
+Reduced 10 texdatas to 10 (228 bytes to 228)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+LoadPortals: couldn't read c:\dev\surf_001\surf_001.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 66 texinfos to 29
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  42 portalclusters
+  77 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1312
+Average clusters visible: 31
+Building PAS...
+Average clusters audible: 42
+visdatasize:840  compressed from 672
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 66 texinfos to 29
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  42 portalclusters
+  77 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1312
+Average clusters visible: 31
+Building PAS...
+Average clusters audible: 42
+visdatasize:840  compressed from 672
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14833 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  42 portalclusters
+  77 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1312
+Average clusters visible: 31
+Building PAS...
+Average clusters audible: 42
+visdatasize:840  compressed from 672
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  46 portalclusters
+  86 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1616
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 46
+visdatasize:918  compressed from 736
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  46 portalclusters
+  86 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1616
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 46
+visdatasize:918  compressed from 736
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  46 portalclusters
+  86 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1616
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 46
+visdatasize:918  compressed from 736
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  46 portalclusters
+  86 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1616
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 46
+visdatasize:918  compressed from 736
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-10624.00 -7936.00 -1248.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (128.0 3072.0 2738.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (128.0 3072.0 9634.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (608.0 3072.0 2816.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (32.0 3072.0 2816.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 4096.0 2816.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3584.0 2816.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-992.0 3072.0 2759.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-992.0 3072.0 9655.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14833 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 53
+Reduced 10 texdatas to 10 (228 bytes to 228)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+LoadPortals: couldn't read c:\dev\surf_001\surf_001.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14801 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  46 portalclusters
+  86 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1616
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 46
+visdatasize:918  compressed from 736
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14769 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 28
+Reduced 10 texdatas to 7 (228 bytes to 159)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+  46 portalclusters
+  86 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1616
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 46
+visdatasize:918  compressed from 736
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-6528.00 -7936.00 -1504.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (128.0 3072.0 1042.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (128.0 3072.0 9634.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (608.0 3072.0 1120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (32.0 3072.0 1120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 4096.0 1120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 3584.0 1120.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-992.0 3072.0 1063.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-992.0 3072.0 9655.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41769 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 76 texinfos to 67
+Reduced 11 texdatas to 11 (252 bytes to 252)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+LoadPortals: couldn't read c:\dev\surf_001\surf_001.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41737 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 76 texinfos to 41
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 161 portalclusters
+ 346 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1178 visible clusters (8.83%)
+Total clusters visible: 13339
+Average clusters visible: 82
+Building PAS...
+Average clusters audible: 143
+visdatasize:8201  compressed from 7728
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41737 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 161 portalclusters
+ 346 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1175 visible clusters (8.81%)
+Total clusters visible: 13344
+Average clusters visible: 82
+Building PAS...
+Average clusters audible: 143
+visdatasize:8201  compressed from 7728
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41753 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 161 portalclusters
+ 346 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1192 visible clusters (8.97%)
+Total clusters visible: 13291
+Average clusters visible: 82
+Building PAS...
+Average clusters audible: 142
+visdatasize:8195  compressed from 7728
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43977 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 168 portalclusters
+ 349 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 468 visible clusters (3.01%)
+Total clusters visible: 15572
+Average clusters visible: 92
+Building PAS...
+Average clusters audible: 152
+visdatasize:8633  compressed from 8064
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43993 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 42
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 172 portalclusters
+ 360 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 414 visible clusters (2.47%)
+Total clusters visible: 16750
+Average clusters visible: 97
+Building PAS...
+Average clusters audible: 156
+visdatasize:9113  compressed from 8256
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43993 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 43
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 172 portalclusters
+ 360 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 414 visible clusters (2.47%)
+Total clusters visible: 16752
+Average clusters visible: 97
+Building PAS...
+Average clusters audible: 156
+visdatasize:9113  compressed from 8256
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43993 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 44
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 172 portalclusters
+ 360 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 414 visible clusters (2.47%)
+Total clusters visible: 16752
+Average clusters visible: 97
+Building PAS...
+Average clusters audible: 156
+visdatasize:9113  compressed from 8256
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (43993 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 44
+Reduced 11 texdatas to 10 (252 bytes to 229)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 172 portalclusters
+ 360 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 414 visible clusters (2.47%)
+Total clusters visible: 16752
+Average clusters visible: 97
+Building PAS...
+Average clusters audible: 156
+visdatasize:9113  compressed from 8256
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (161076 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 402 texinfos to 263
+Reduced 13 texdatas to 12 (294 bytes to 271)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 480 portalclusters
+ 931 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 587 visible clusters (1.54%)
+Total clusters visible: 38239
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 112
+visdatasize:22205  compressed from 61440
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\momentum\materials
+Loading c:\dev\surf_001\surf_001.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\momentum\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\dev\surf_001\surf_001.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (161076 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 402 texinfos to 263
+Reduced 13 texdatas to 12 (294 bytes to 271)
+Writing c:\dev\surf_001\surf_001.bsp
+Wrote ZIP buffer, estimated size 82084, actual size 81870
+1 second elapsed
+
+
+
+8 threads
+reading c:\dev\surf_001\surf_001.bsp
+reading c:\dev\surf_001\surf_001.prt
+ 480 portalclusters
+ 931 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 587 visible clusters (1.54%)
+Total clusters visible: 38239
+Average clusters visible: 79
+Building PAS...
+Average clusters audible: 112
+visdatasize:22205  compressed from 61440
+writing c:\dev\surf_001\surf_001.bsp
+0 seconds elapsed
